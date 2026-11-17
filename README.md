@@ -5291,6 +5291,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
+- [Leadgen ONRC Romania](https://leadgen.adrianhomelab.com) `https://leadgen-mcp.adrianhomelab.com/mcp`
+  🔓 - Romanian company registry over official ONRC and ANAF open data: lookup by name or CUI, lead lists by CAEN activity and county, directors, financial statements since 2008, VAT status.
 - [LightRay](https://www.lightray.ai/claude?ref=AR) `https://app.lightray.ai/mcp`
   [![LightRay MCP connector](https://glama.ai/mcp/connectors/ai.lightray/lightray/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lightray/lightray)
   🔓 - Company report on who owns and runs a company, its filings, court matters and press.
